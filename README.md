@@ -134,7 +134,7 @@ My bakery <!DOCTYPE html>
     © <span id="year"></span> Karan Enterprises | All Rights Reserved
   </footer>
 
-  <a id="whatsapp-btn" href="https://wa.me/919876543210" target="_blank">💬</a>
+  <a id="whatsapp-btn" href="https://wa.me/919876543210"
 
   <script>
     document.getElementById("year").textContent = new Date().getFullYear();
